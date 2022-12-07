@@ -28,6 +28,7 @@ The project is configured with default paramters for optimum parameters. For bas
 
 
 To override the default parameters, go to the 5th code cell titled 'Override above settings for best configuration' and follow the instructions as below:
+
     a: Document QA: modify the parameters defined in def set_qa_statement_configuration() on line# 26
         TOP_N_ROUGE_SCORES (default is 0) (All paragaphs are selected). Enter a positive integer (15  is average targetParagraph length) for selecting TOP N ROUGE score targetParagraphs
         QA_DROPOUT_HIDDEN (default is 0.2) to change BERT models "hidden_dropout_prob" parameter
