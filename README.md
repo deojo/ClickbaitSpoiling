@@ -39,7 +39,7 @@ To override the default parameters, go to the 5th code cell titled 'Override abo
         QA_LEARNING_RATE (default is 3e-5) to change the learning rate for training
         QA_WEIGHT_DECAY (default is 0.01) to change weight decay for optimizer
         QA_EPOCH_MAX (default is 10) to change number of training epochs
-        QA_MODELS (default 'roberta-base') to change underlying BERT model
+        QA_MODELS (default 'roberta-base') change underlying BERT model to 'bert-base-uncased'
 
     b: TargetParagraph Extraction : modify the parameters defined in def set_se_configuration() on line# 4
         SE_USE_CLASSWEIGHTS (default is 0 i.e no classweights) change to 1 to automatically select class weights based on the distribution in the training file.
@@ -58,7 +58,7 @@ To override the default parameters, go to the 5th code cell titled 'Override abo
         QA_LEARNING_RATE (default is 3e-5) to change the learning rate for training
         QA_WEIGHT_DECAY (default is 0.01) to change weight decay for optimizer
         QA_EPOCH_MAX (default is 12) to change number of training epochs
-        QA_MODELS (default 'roberta-base') to change underlying BERT model
+        QA_MODELS (default 'roberta-base') change underlying BERT model to 'bert-base-uncased'
 
 
 ## Authors
