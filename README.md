@@ -24,7 +24,7 @@ The project has been developed and tested on Google Colab using Python 3.7 versi
 
 ### Program Parameters
 
-The project is configured with default paramters for optimum parameters. For basic execution, no change is needed.
+The project is configured with default parameters for optimum output. For basic execution, no change is needed.
 
 
 To override the default parameters, go to the 5th code cell titled 'Override above settings for best configuration' and follow the instructions as below:
