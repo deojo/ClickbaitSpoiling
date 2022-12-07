@@ -46,7 +46,7 @@ To override the default parameters, go to the 5th code cell titled 'Override abo
         TOP_N_ROUGE_SCORES (default is 8) (All paragaphs are selected). Enter a positive integer (15  is average targetParagraph length) for selecting TOP N ROUGE score targetParagraphs
         SE_DROPOUT_HIDDEN (default is 0.1) to change BERT models "hidden_dropout_prob" parameter
         SE_DROPOUT_ATTENTION (default is 0.1) to change BERT models "attention_probs_dropout_prob" parameter
-        SE_DROPOUT (default is 0.5) to change dropout of SentenceBertClass
+        SE_DROPOUT (default is 0.5) to change dropout of hidden linear layer in SentenceBertClass of classifier model
         SE_LEARNING_RATE (default is 5e-5) to change the learning rate for training
         SE_WEIGHT_DECAY (default is 5e-05) to change weight decay for optimizer
         SE_EPOCH_MAX (default is 10) to change number of training epochs
