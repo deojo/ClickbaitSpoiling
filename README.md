@@ -18,7 +18,7 @@ The project has been developed and tested on Google Colab using Python 3.7 versi
 
 ### Installing
    
-   1 .Either clone the repo with git clone --recursive https://github.com/deojo/ClickbaitSpoiling.git or download the zip file from the repository and unzip the contents in a project folder.
+   1. Either clone the repo with git clone --recursive https://github.com/deojo/ClickbaitSpoiling.git or download the zip file from the repository and unzip the contents in a project folder.
 
    2. Make sure that the project folder contains: ProjectDJoshi_Final.ipynb, train.jsonl, validation.jsonl
    
